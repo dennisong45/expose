@@ -68,6 +68,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/seankndy/reactphp-sqlite"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/dennisong45/expose"
         }
     ],
     "minimum-stability": "dev",
