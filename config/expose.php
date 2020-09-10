@@ -27,7 +27,7 @@ return [
     | The free default server is already running on port 443.
     |
     */
-    'port' => 80,
+    'port' => 8080,
 
     /*
     |--------------------------------------------------------------------------
