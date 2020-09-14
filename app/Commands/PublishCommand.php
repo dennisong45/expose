@@ -19,7 +19,7 @@ class PublishCommand extends Command
         ]);
 
         if (! $this->option('force') && file_exists($configFile)) {
-            $this->error('Expose configuration file already exists at '.$configFile);
+            $this->error('Dennis: Expose configuration file already exists at '.$configFile);
 
             return;
         }
